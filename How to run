@@ -1,0 +1,3 @@
+uvicorn main:app --reload
+run the local host based.
+*Index.html under templates folder is the main web page*
