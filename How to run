@@ -1,3 +1,4 @@
-uvicorn main:app --reload
+execute requirements.txt file for lib install
+use ---> uvicorn main:app --reload
 run with local host based.
 *Index.html under templates folder is the main web page*
